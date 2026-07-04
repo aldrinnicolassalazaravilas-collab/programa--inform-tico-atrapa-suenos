@@ -30,6 +30,11 @@ def robot_controller():
 
 
 
+@app.route("/Guia_partes_del_computador")
+def guia_partes_del_computador():
+   return render_template("guias/guia_partes_del_computador.html")
+
+
 
 if __name__ == "__main__":
    print("Iniciando servidor")
