@@ -1,0 +1,12 @@
+{
+  "background_color": "#00e2ff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "programa informático atrapa sueños",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "programa informático atrapa sueños",
+  "start_url": "/",
+  "theme_color": "#00b0ff",
+  "id": "programa informático atrapa sueños"
+}
